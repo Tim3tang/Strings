@@ -49,6 +49,7 @@ New strings can also be created by calling the ```.new``` method:
   string["def"] = "123" #=> string now equals "abc123"
   ```
   
-  ####Author
-  Tim Tang  
+####Author
+
+#####Tim Tang
   
